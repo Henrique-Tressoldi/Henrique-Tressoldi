@@ -6,9 +6,9 @@ Desenvolvedor full stack em formação, apaixonado por tecnologia, sempre buscan
 
 ### 🚀 Sobre mim
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas (UTFPR)
-- 👨‍💻 Foco em desenvolvimento web com React, Node.js, Flask e Java
+- 👨‍💻 Foco em desenvolvimento web com React, Python, Node.js, Flask e Java
 - 🔍 Apaixonado por aprender, resolver problemas e criar experiências eficientes
-- 🌎 Inglês fluente | Nacionalidade americana | Interesse em vagas remotas e internacionais
+- 🌎 Inglês fluente | Espanhol avançado | Nacionalidade americana | Interesse em vagas remotas e internacionais
 
 ---
 
