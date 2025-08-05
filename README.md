@@ -1,123 +1,52 @@
-# Sistema de Cadastro Faculdade
+<h1 align="center">Olá, eu sou Henrique Tressoldi! 👋</h1>
 
-Sistema web desenvolvido com **Flask (Python)** para gerenciamento acadêmico de **alunos, turmas, disciplinas e matrículas**. O sistema possui uma interface simples e acessível, utilizando **HTML**, **CSS** e **JavaScript**.
-
----
-
-## 🧪 Tecnologias utilizadas
-
-- Python (Flask)
-- HTML5
-- CSS3
-- JavaScript
-- Jinja2 (Templates Flask)
-- Bootstrap (opcional)
-- Deploy com `Procfile` (Heroku)
+Desenvolvedor full stack em formação, apaixonado por tecnologia, sempre buscando transformar ideias em soluções reais com JavaScript e Python.
 
 ---
 
-## 🚀 Funcionalidades
-
-- [x] Cadastro de alunos
-- [x] Cadastro de disciplinas
-- [x] Cadastro de turmas
-- [x] Matrícula de alunos
-- [x] Edição e exclusão de registros
-- [ ] Integração com banco de dados (em desenvolvimento)
-- [ ] Autenticação de usuários
+### 🚀 Sobre mim
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas (UTFPR)
+- 👨‍💻 Foco em desenvolvimento web com React, Node.js, Flask e Java
+- 🔍 Apaixonado por aprender, resolver problemas e criar experiências eficientes
+- 🌎 Inglês fluente | Nacionalidade americana | Interesse em vagas remotas e internacionais
 
 ---
 
-## ⚙️ Como executar o projeto
+### 🧰 Tecnologias e Ferramentas
 
-### Pré-requisitos
-
-- Python 3 instalado
-- (Opcional) Ambiente virtual configurado
-
-### Passos
-
-```bash
-# Clone o repositório
-git clone https://github.com/Henrique-Tressoldi/sistema-de-cadastro-faculdade.git
-cd sistema-de-cadastro-faculdade
-
-# (Opcional) Crie e ative um ambiente virtual
-python -m venv venv
-# Linux/macOS
-source venv/bin/activate
-# Windows
-venv\Scripts\activate
-
-# Instale as dependências
-pip install -r requirements.txt
-
-# Execute o projeto
-flask run
-# ou
-python app.py
-```
-
-Acesse em `http://localhost:5000` no seu navegador.
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🗂️ Estrutura de pastas
+### 🛠️ Ferramentas de Desenvolvimento
 
-```
-sistema-de-cadastro-faculdade/
-│
-├── app.py                 # Arquivo principal da aplicação Flask
-├── requirements.txt       # Lista de dependências
-├── Procfile               # Configuração para deploy no Heroku
-│
-├── templates/             # Arquivos HTML (Jinja2)
-│   ├── index.html
-│   ├── alunos.html
-│   ├── disciplinas.html
-│   └── turmas.html
-│
-└── static/                # Arquivos estáticos (CSS e JS)
-    ├── css/
-    └── js/
-```
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 🧭 Próximos passos
+### 📊 GitHub Stats
 
-- [ ] Conectar com banco de dados (SQLite ou PostgreSQL)
-- [ ] Implementar autenticação (login/senha)
-- [ ] Adicionar mensagens de sucesso e erro nos formulários
-- [ ] Adicionar testes automatizados
-- [ ] Melhorar o design responsivo
-
----
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Faça um fork do projeto
-2. Crie uma branch com sua feature: `git checkout -b feature/minha-feature`
-3. Faça commit das suas alterações: `git commit -m 'feat: minha nova feature'`
-4. Faça push da sua branch: `git push origin feature/minha-feature`
-5. Abra um Pull Request
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Henrique-Tressoldi&show_icons=true&theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Tressoldi&layout=compact&theme=github_dark" />
+</p>
 
 ---
 
-## 👤 Autor
+### 📫 Contato
 
-**Henrique Tressoldi**  
-Estudante de Análise e Desenvolvimento de Sistemas na UTFPR  
-📍 Americano morando no Brasil  
-💻 Estuda programação há 4 anos  
-🌐 GitHub: [Henrique-Tressoldi](https://github.com/Henrique-Tressoldi)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tressoldih@gmail.com.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-tressoldi/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)
 
 ---
 
-## 📄 Licença
-
-Este projeto ainda não possui uma licença. Entre em contato caso deseje utilizá-lo comercialmente.
-
----
+*Acredito que aprender construindo é o melhor caminho — por isso coloco a teoria em prática sempre que possível! 🚀*
