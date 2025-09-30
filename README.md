@@ -31,7 +31,7 @@ Aspiring Full Stack Developer and **IT Support Professional** with a passion for
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) *(Sugestão: Adicionar um badge de SO ou ferramenta de suporte como Linux ou MySQL)*
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 
 ---
 
