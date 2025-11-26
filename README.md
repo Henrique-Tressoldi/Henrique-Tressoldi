@@ -52,10 +52,10 @@ O **Genius** é uma plataforma de inteligência operacional que utiliza a API do
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Tressoldi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Tressoldi&layout=compact&theme=dark&hide_border=true" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Henrique-Tressoldi&show_icons=true&theme=github_dark&hide_title=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Tressoldi&layout=compact&theme=github_dark&hide_title=true" />
+</p>
 
 ---
 
