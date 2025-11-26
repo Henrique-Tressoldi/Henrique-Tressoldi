@@ -50,6 +50,7 @@ O **Genius** é uma plataforma de inteligência operacional que utiliza a API do
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
